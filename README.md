@@ -4,12 +4,12 @@ The Aperture Continued is (edit: was) an actively supported, up-to-date addon fo
 
 Unlike this addon's predecessor "The Aperture", which you may find copies of on the steam workshop, this is still in active development, and as such, new features and bug fixes roll out with every new update.
 
-## Notice as of 7/22/2019
-I apologize, but i am sad to say that this addon is no longer in active development or maintenence.
-It has become too difficult to maintain it alongside other projects that have taken precedence; but I am still greatful for allt he support that I have gotten because of this Addon.
-
 ## Notice as of 4/20/2021
 Imma try to fix this addon the best I can.
+
+## Notice as of 7/22/2019
+I apologize, but i am sad to say that this addon is no longer in active development or maintenence.
+It has become too difficult to maintain it alongside other projects that have taken precedence; but I am still greatful for all the support that I have gotten because of this Addon.
 
 I would like to take a moment to give Special Thanks to Crishnate, the original addon creator, for being an inspiration for me and allowing me so kindly to continue work on his addon for the time that I did.
 
