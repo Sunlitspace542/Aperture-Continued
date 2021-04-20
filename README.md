@@ -1,4 +1,4 @@
-# Aperture: continued
+# Aperture: Continued
 
 Aperture Continued is (edit: was) an actively supported, up-to-date addon for Garry's mod that adds various items and gameplay mechanics from the Portal franchise into Garry's mod.
 
@@ -7,6 +7,9 @@ Unlike this addon's predecessor "The aperture", which you may find copies of on 
 ## Notice as of 7/22/2019
 I apologize, but i am sad to say that this addon is no longer in active development or maintenence.
 It has become too difficult to maintain it alongside other projects that have taken precedence; but I am still greatful for allt he support that I have gotten because of this Addon.
+
+## Notice as of 4/20/2021
+Imma try to fix this addon the best I can.
 
 I would like to take a moment to give Special Thanks to Crishnate, the original addon creator, for being an inspiration for me and allowing me so kindly to continue work on his addon for the time that I did.
 
@@ -24,7 +27,7 @@ Alternatively; Simply clone or downlaod this repositiory and place the entirety 
 4. radios that have a 1/20 chance of playing a never-before-heard message from Dr. breen (no, really.)
 5. Cake!
 6. Arm panels dynamically adjustable to any position within their reach
-7. All gels from portal 2, including one scrapped from the final release (reflection gel for bouncing lasers off stuff)
+7. All gels from portal 2, including two scrapped from the final release (reflection gel for bouncing lasers off stuff, adhesion gel)
 8. Lasers, and musical laser catchers with different songs to choose from such as the still-alive radio, the triple-laser-phase, and Portal 1's "self esteem fund".
 9. Crushers
 10. Gel droppers and item droppers that can be placed on the floor, walls, and ceiling, all with configurable "drop force" settings
