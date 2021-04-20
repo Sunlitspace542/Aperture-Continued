@@ -9,7 +9,7 @@ end
 if (CLIENT) then
 	--SWEP.WepSelectIcon 		= surface.GetTextureID("weapons/portalgun_inventory")
 	SWEP.PrintName = "Paint Gun"
-	SWEP.Author = "CrishNate"
+	SWEP.Author = "CrishNate, Fennecai"
 	SWEP.Purpose = "Shoot Different Gels"
 	SWEP.ViewModelFOV = 45
 	SWEP.Instructions = "Left/Right Mouse shoot gel, Reload change gel types"
